@@ -30,14 +30,14 @@ taxInvoice:
     - "Quando o seu pagamento for aprovado, nós emitiremos uma nota fiscal da sua compra para arrecadação de impostos."
     - "Se você desejar, nós poderemos incluir os seus dados pessoais na nota fiscal e, quando o pagamento for aprovado, você receberá uma cópia da nota fiscal via email."
     - "Se você vive fora do Brasil e não possui um CPF, você pode escolher emitir a nota fiscal sem incluir seus dados!"
-  include: "Inclua meus dados pesoais na Nota Fiscal"
-  doNotInclude: "Não inclua meus dados pesoais na Nota Fiscal"
+  include: "Inclua meus dados pessoais na Nota Fiscal"
+  doNotInclude: "Não inclua meus dados pessoais na Nota Fiscal"
   fillYourPersonalData: "Preencha seus dados pessoais"
 
 gateways:
   picpay:
     name: "PicPay"
-    dataWarning: "As suas informações perssoais serão utilizadas apenas pelo PicPay para o processamento de pagamentos. O PerfectDreams não irá salvar os seus dados pessoais."
+    dataWarning: "As suas informações pessoais serão utilizadas apenas pelo PicPay para o processamento de pagamentos. O PerfectDreams não irá salvar os seus dados pessoais."
   stripe:
     name: "Stripe"
   pagseguro:
