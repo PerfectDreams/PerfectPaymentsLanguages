@@ -40,7 +40,7 @@ gateways:
   paypal:
     name: "PayPal"
   sandbox:
-    name: "Sandbox" #Used for debugging
+    name: "Caixa de Areia" #Used for debugging
 methods:
   creditCard: "Cartão de Crédito"
   picpayBalance: "Saldo do PicPay"
