@@ -1,3 +1,4 @@
+---
 name: "Português"
-inheritsFrom: "en"
-formattingLanguageId: "pt" # Used for message formatting
+inheritsFrom: null
+formattingLanguageId: "pt" #Used for message formatting
